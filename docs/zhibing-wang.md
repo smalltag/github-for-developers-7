@@ -1,3 +1,3 @@
 ### this is an introduction to the student
 
-***favorite color ***:green
+***favorite color ***:green.
